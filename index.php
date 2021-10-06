@@ -12,8 +12,8 @@
 
         <a href="a.jpg" download="a.jpg">jpg</a>
         <a href="aa.pdf" download="aa.pDf">pdf</a>
-        <a href="aaa.xml" download="aaa.XML">xml</a>
-        <a href="aaaa.txT" download="aaaa.txT">txta</a>
+        <a href="aaa.XML" download="aaa.XML">xml</a>
+        <a href="aaaa.TXT" download="aaaa.TXT">txtaa</a>
 
     </div>
 
